@@ -1,4 +1,3 @@
 # mongod_cookbook
 
-TODO: Enter the cookbook description here.
-
+Cookbook to install mongod v3.x

@@ -18,3 +18,6 @@ chef_version '>= 14.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/mongod_cookbook'
+
+# depends 'sc-mongodb', '~> 1.2.0'
+# depends 'sc-mongodb', '~> 1.2.0'
